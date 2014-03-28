@@ -34,6 +34,7 @@ You can also **bold text**, *italicize text*, or ***bold and italicize text***:
     You can also **bold text**, *italicize text*, or ***bold and italicize text***
 
 ## Lists
+.
 
 You can use the dash (\-) symbol to create a list:
 
